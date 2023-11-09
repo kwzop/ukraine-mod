@@ -1,0 +1,810 @@
+characters = {
+	
+BLR_lukashenko = {
+	name = BLR_lukashenko
+	portraits = {
+		civilian = {
+			large = "/gfx/leaders/BLR/Lukashenko.dds"
+		}
+	}
+	country_leader = {
+		expire = "1965.1.1"
+		ideology = despotism
+		traits = { 
+			batka
+		 }
+	}
+}
+BLR_Tixonovskaya = {
+	name = BLR_Tixonovskaya
+	portraits = {
+		civilian = {
+			large = "/gfx/leaders/BLR/Tixonovskaya.dds"
+		}
+	}
+	country_leader = {
+		expire = "1982.9.11"
+		ideology = liberal_democracy
+		traits = {}
+	}
+}
+BLR_sokol = {
+	name = BLR_sokol
+	portraits = {
+		civilian = {
+			large = "/gfx/leaders/BLR/Sokol.dds"
+		}
+	}
+	country_leader = {
+		expire = "1965.1.1"
+		ideology = marxism
+		traits = {  }
+	}
+}
+BLR_saranchuk = {
+	name = BLR_saranchuk
+	portraits = {
+		civilian = {
+			large = "/gfx/leaders/BLR/Saranchuk.dds"
+		}
+	}
+}
+BLR_kostusev = {
+	name = BLR_kostusev
+	portraits = {
+		civilian = {
+			large = "/gfx/leaders/BLR/Kostusev.dds"
+		}
+	}
+	country_leader = {
+		expire = "1965.1.1"
+		ideology = nationalism
+		traits = {  }
+	}
+}
+BLR_golovchenko = {
+	name = BLR_golovchenko
+	portraits = {
+		civilian = {
+			small = "GFX_idea_BLR_golovchenko"
+			large = "/gfx/leaders/BLR/Golovchenko.dds"
+		}
+	}
+	country_leader = {
+	ideology = despotism
+	traits = {
+		formerly_premier_minister
+	}
+	}
+	advisor={
+		cost = 150
+		slot = political_advisor
+		idea_token = BLR_golovchenko
+		allowed = {
+			original_tag = BLR
+		}
+		available = {
+				has_government = neutrality
+		}
+		
+		traits = {
+			premier_minister_neutrality
+		}
+	}
+}
+BLR_snopkov = {
+	name = BLR_snopkov
+	portraits = {
+		civilian = {
+			small = "GFX_idea_BLR_snopkov"
+		}
+	}
+
+	advisor={
+		cost = 150
+		slot = political_advisor
+		idea_token = BLR_snopkov
+		allowed = {
+			original_tag = BLR
+		}
+		available = {
+				has_government = neutrality
+		}
+		
+		traits = {
+			premier_minister_deputy
+		}
+	}
+}
+BLR_sergeenko = {
+	name = BLR_sergeenko
+	portraits = {
+		civilian = {
+			small = "GFX_idea_BLR_sergeenko"
+		}
+	}
+
+	advisor={
+		cost = 150
+		slot = political_advisor
+		idea_token = BLR_sergeenko
+		allowed = {
+			original_tag = BLR
+		}
+		available = {
+				has_government = neutrality
+		}
+		
+		traits = {
+			administration_leader
+		}
+	}
+}
+BLR_kallaur = {
+	name = BLR_kallaur
+	portraits = {
+		civilian = {
+			small = "GFX_idea_BLR_kallaur"
+		}
+	}
+
+	advisor={
+		cost = 150
+		slot = political_advisor
+		idea_token = BLR_kallaur
+		allowed = {
+			original_tag = BLR
+		}
+		available = {
+				has_government = neutrality
+		}
+		
+		traits = {
+			national_banker
+		}
+	}
+}
+BLR_gusakov = {
+	name = BLR_gusakov
+	portraits = {
+		civilian = {
+			small = "GFX_idea_BLR_gusakov"
+		}
+	}
+
+	advisor={
+		cost = 150
+		slot = political_advisor
+		idea_token = BLR_gusakov
+		allowed = {
+			original_tag = BLR
+		}
+		available = {
+				has_government = neutrality
+		}
+		
+		traits = {
+			economist
+		}
+	}
+}
+BLR_sivak = {
+	name = BLR_sivak
+	portraits = {
+		civilian = {
+			small = "GFX_idea_BLR_gusakov"
+		}
+	}
+
+	advisor={
+		cost = 150
+		slot = political_advisor
+		idea_token = BLR_sivak
+		allowed = {
+			original_tag = BLR
+		}
+		available = {
+				has_government = neutrality
+		}
+		
+		traits = {
+			railroad_enthusiast
+		}
+	}
+}
+BLR_parhomchik = {
+	name = BLR_parhomchik
+	portraits = {
+		civilian = {
+			small = "GFX_idea_BLR_gusakov"
+		}
+	}
+
+	advisor={
+		cost = 150
+		slot = political_advisor
+		idea_token = BLR_parhomchik
+		allowed = {
+			original_tag = BLR
+		}
+		available = {
+				has_government = neutrality
+		}
+		
+		traits = {
+			captain_of_industry
+		}
+	}
+}
+BLR_petrishenko = {
+	name = BLR_petrishenko
+	portraits = {
+		civilian = {
+			small = "GFX_idea_BLR_gusakov"
+		}
+	}
+
+	advisor={
+		cost = 150
+		slot = political_advisor
+		idea_token = BLR_petrishenko
+		allowed = {
+			original_tag = BLR
+		}
+		available = {
+				has_government = neutrality
+		}
+		
+		traits = {
+			head_of_intelligence
+		}
+	}
+}
+BLR_zayats = {
+	name = BLR_zayats
+	portraits = {
+		civilian = {
+			small = "GFX_idea_BLR_gusakov"
+		}
+	}
+
+	advisor={
+		cost = 150
+		slot = political_advisor
+		idea_token = BLR_zayats
+		allowed = {
+			original_tag = BLR
+		}
+		available = {
+				has_government = neutrality
+		}
+		
+		traits = {
+			agricultural_capitalist
+		}
+	}
+}
+BLR_bogdanov = {
+	name = BLR_bogdanov
+	portraits = {
+		civilian = {
+			small = "GFX_idea_BLR_gusakov"
+		}
+	}
+
+	advisor={
+		cost = 150
+		slot = political_advisor
+		idea_token = BLR_bogdanov
+		allowed = {
+			original_tag = BLR
+		}
+		available = {
+				has_government = neutrality
+		}
+		
+		traits = {
+			left_trade_unionist
+		}
+	}
+}
+BLR_parhamovich = {
+	name = BLR_parhamovich
+	portraits = {
+		civilian = {
+			small = "GFX_idea_BLR_gusakov"
+		}
+	}
+
+	advisor={
+		cost = 150
+		slot = political_advisor
+		idea_token = BLR_parhamovich
+		allowed = {
+			original_tag = BLR
+		}
+		available = {
+				has_government = neutrality
+		}
+		
+		traits = {
+			great_architect
+		}
+	}
+}
+BLR_khrenin = {
+	name = BLR_hrenin
+	portraits = {
+		civilian = {
+			small = "GFX_idea_BLR_gusakov"
+		}
+		army={
+			small="/gfx/interface/ideas/idea_LEB_generic_land_3.dds"
+			large="/gfx/leaders/BLR/victor_khrenin.dds"
+		}
+	}
+
+	advisor={
+		cost = 150
+		slot = high_command
+		idea_token = BLR_hrenin
+		ledger = army
+		allowed = {
+			original_tag = BLR
+		}
+		available = {
+				has_government = neutrality
+		}
+		
+		traits = {
+			army_chief_defensive_3
+			army_chief_drill_3
+		}
+	}
+	field_marshal={
+		traits={ combined_arms_expert organizer }
+		skill=5
+		attack_skill=4
+		defense_skill=4
+		planning_skill=3
+		logistics_skill=6
+	}
+}
+BLR_zhuk = {
+	name = BLR_zhuk
+	portraits = {
+		civilian = {
+			small = "GFX_idea_BLR_gusakov"
+		}
+	}
+
+	advisor={
+		cost = 50
+		slot = high_command
+		idea_token = BLR_zhuk
+		ledger = army
+		allowed = {
+			original_tag = BLR
+		}
+		available = {
+				has_government = neutrality
+		}
+		
+		traits = {
+			army_chief_defensive_2
+			army_chief_drill_2
+		}
+	}
+}
+BLR_burdyko = {
+	name = BLR_burdyko
+	portraits = {
+		civilian = {
+			small = "GFX_idea_BLR_gusakov"
+		}
+	}
+
+	advisor={
+		cost = 50
+		slot = high_command
+		idea_token = BLR_burdyko
+		ledger = army
+		allowed = {
+			original_tag = BLR
+		}
+		available = {
+				has_government = neutrality
+		}
+		
+		traits = {
+			army_regrouping_3
+			rearmer
+		}
+	}
+}
+BLR_simonenko = {
+	name = BLR_simonenko
+	portraits = {
+		civilian = {
+			small = "GFX_idea_BLR_gusakov"
+		}
+	}
+
+	advisor={
+		cost = 50
+		slot = high_command
+		idea_token = BLR_burdyko
+		ledger = army
+		allowed = {
+			original_tag = BLR
+		}
+		available = {
+				has_government = neutrality
+		}
+		
+		traits = {
+			army_infantry_3
+			army_entrenchment_3
+		}
+	}
+}
+BLR_gulevich = {
+	name = BLR_gulevich
+	portraits = {
+		civilian = {
+			small = "GFX_idea_BLR_gusakov"
+		}
+		army={
+			small="/gfx/interface/ideas/idea_LEB_generic_land_3.dds"
+			large="/gfx/leaders/BLR/victor_gulevich.dds"
+			}
+	}
+	corps_commander={
+			traits={ commando paratrooper }
+			skill=4
+			attack_skill=4
+			defense_skill=3
+			planning_skill=4
+			logistics_skill=6
+		}
+
+	advisor={
+		cost = 200
+		slot = army_chief
+		idea_token = BLR_gulevich
+		ledger = army
+		allowed = {
+			original_tag = BLR
+		}
+		available = {
+				has_government = neutrality
+		}
+		
+		traits = {
+			army_chief_defensive_3
+			army_chief_drill_3
+			army_CombinedArms_3
+			army_armored_3
+		}
+	}
+}
+BLR_lukyanovich = {
+	name = BLR_lukyanovich
+	portraits = {
+		civilian = {
+			small = "GFX_idea_BLR_gusakov"
+		}
+	}
+
+	advisor={
+		cost = 200
+		slot = air_chief
+		idea_token = BLR_lukyanovich
+		ledger = air
+		allowed = {
+			original_tag = BLR
+		}
+		available = {
+				has_government = neutrality
+		}
+		
+		traits = {
+			air_air_combat_training_3
+			air_airborne_3
+			air_chief_all_weather_3
+			air_chief_ground_support_3
+		}
+	}
+}
+BLR_frolov = {
+	name = BLR_frolov
+	portraits = {
+		civilian = {
+			small = "GFX_idea_BLR_gusakov"
+		}
+	}
+
+	advisor={
+		cost = 100
+		slot = high_command
+		idea_token = BLR_frolov
+		ledger = air
+		allowed = {
+			original_tag = BLR
+		}
+		available = {
+				has_government = neutrality
+		}
+		
+		traits = {
+			air_air_combat_training_1
+			air_chief_night_operations_3
+			aircraft_manufacturer
+		}
+	}
+}
+BLR_miholach = {
+	name = BLR_miholach
+	portraits = {
+		civilian = {
+			small = "GFX_idea_BLR_gusakov"
+		}
+	}
+
+	advisor={
+		cost = 45
+		slot = high_command
+		idea_token = BLR_miholach
+		ledger = air
+		allowed = {
+			original_tag = BLR
+		}
+		available = {
+				has_government = neutrality
+		}
+		
+		traits = {
+			air_air_combat_training_1
+			air_chief_night_operations_1
+		}
+	}
+}
+BLR_bulavko = {
+	name = BLR_bulavko
+	portraits = {
+		civilian = {
+			small = "GFX_idea_BLR_gusakov"
+		}
+	}
+
+	advisor={
+		cost = 100
+		slot = high_command
+		idea_token = BLR_bulavko
+		ledger = air
+		allowed = {
+			original_tag = BLR
+		}
+		available = {
+				has_government = neutrality
+		}
+		
+		traits = {
+		administration_leader
+		air_air_combat_training_3
+		air_pilot_training_3
+		}
+	}
+}
+BLR_soiko = {
+	name = BLR_soiko
+	portraits = {
+		civilian = {
+			small = "GFX_idea_BLR_gusakov"
+		}
+	}
+
+	advisor={
+		cost = 100
+		slot = high_command
+		idea_token = BLR_soiko
+		ledger = air
+		allowed = {
+			original_tag = BLR
+		}
+		available = {
+				has_government = neutrality
+		}
+		
+		traits = {
+			air_air_combat_training_2
+			air_chief_all_weather_1
+			air_air_superiority_2
+		}
+	}
+}
+BLR_peiganovich = {
+	name = BLR_gulevich
+	portraits = {
+		civilian = {
+			small = "GFX_idea_BLR_gusakov"
+		}
+	}
+
+	advisor={
+		cost = 50
+		slot = high_command
+		idea_token = BLR_gulevich
+		ledger = air
+		allowed = {
+			original_tag = BLR
+		}
+		available = {
+				has_government = neutrality
+		}
+		
+		traits = {
+			rearmer
+			air_pilot_training_1
+			air_air_combat_training_1
+		}
+	}
+}
+
+BLR_alexander_volfovich = {
+	name = BLR_alexander_volfovich
+	portraits = {
+		army={
+			small="/gfx/interface/ideas/idea_LEB_generic_land_3.dds"
+			}
+		army={
+			large="/gfx/leaders/BLR/alexander_volfovich.dds"
+			}
+	}
+	field_marshal={
+			traits={ thorough_planner cavalry_leader }
+			skill=4
+			attack_skill=3
+			defense_skill=5
+			planning_skill=4
+			logistics_skill=3
+		}
+}
+
+BLR_stanislav_zas = {
+	name = BLR_stanislav_zas
+	portraits = {
+		army={
+			small="/gfx/interface/ideas/idea_LEB_generic_land_3.dds"
+			}
+		army={
+			large="/gfx/leaders/BLR/stanislav_zas.dds"
+			}
+	}
+	corps_commander={
+			traits={ combined_arms_expert }
+			skill=4
+			attack_skill=3
+			defense_skill=6
+			planning_skill=3
+			logistics_skill=4
+		}
+}
+
+
+BLR_oleg_belokonev = {
+	name = BLR_oleg_belokonev
+	portraits = {
+		army={
+			small="/gfx/interface/ideas/idea_LEB_generic_land_3.dds"
+			}
+		army={
+			large="/gfx/leaders/BLR/oleg_belokonev.dds"
+			}
+	}
+	corps_commander={
+			traits={ cavalry_leader }
+			skill=3
+			attack_skill=4
+			defense_skill=2
+			planning_skill=1
+			logistics_skill=3
+		}
+}
+
+BLR_ivan_tertel = {
+	name = BLR_ivan_tertel
+	portraits = {
+		army={
+			small="/gfx/interface/ideas/idea_LEB_generic_land_3.dds"
+			}
+		army={
+			large="/gfx/leaders/BLR/ivan_tertel.dds"
+			}
+	}
+	corps_commander={
+			traits={ commando paratrooper trait_engineer fortress_buster }
+			skill=3
+			attack_skill=5
+			defense_skill=2
+			planning_skill=2
+			logistics_skill=1
+		}
+}
+
+BLR_valery_vakulchik = {
+	name = BLR_valery_vakulchik
+	portraits = {
+		army={
+			small="/gfx/interface/ideas/idea_LEB_generic_land_3.dds"
+			}
+		army={
+			large="/gfx/leaders/BLR/valery_vakulchik.dds"
+			}
+	}
+	corps_commander={
+			traits={ panzer_leader expert_improviser }
+			skill=4
+			attack_skill=4
+			defense_skill=4
+			planning_skill=3
+			logistics_skill=2
+		}
+}
+
+BLR_yuri_karaev = {
+	name = BLR_yuri_karaev
+	portraits = {
+		army={
+			small="/gfx/interface/ideas/idea_LEB_generic_land_3.dds"
+			}
+		army={
+			large="/gfx/leaders/BLR/yuri_karaev.dds"
+			}
+	}
+	corps_commander={
+			traits={ commando ambusher }
+			skill=2
+			attack_skill=2
+			defense_skill=3
+			planning_skill=2
+			logistics_skill=1
+		}
+}
+
+BLR_ivan_kubrakov = {
+	name = BLR_ivan_kubrakov
+	portraits = {
+		army={
+			small="/gfx/interface/ideas/idea_LEB_generic_land_3.dds"
+			}
+		army={
+			large="/gfx/leaders/BLR/ivan_kubrakov.dds"
+			}
+	}
+	corps_commander={
+			traits={ scavenger }
+			skill=2
+			attack_skill=2
+			defense_skill=4
+			planning_skill=1
+			logistics_skill=2
+		}
+}
+
+BLR_no_signal = {
+	name = BLR_BLR_no_signal
+	portraits = {
+		civilian = {
+			large = "/gfx/leaders/BLR/No_signal_BLR.dds"
+		}
+	}
+
+	country_leader = {
+		ideology = despotism
+		traits = {
+			
+		}
+		}
+}
+}

@@ -1,0 +1,16 @@
+characters = {
+	
+	douran = {
+		name = Ivan Zolo
+		portraits = {
+			civilian = {
+				large = "/gfx/leaders/MYK/ivan_zolo.dds"
+			}
+		}
+		country_leader = {
+			expire = "1965.1.1"
+			ideology = fascism
+			traits = { criminal_lawyer }
+		}
+	}
+}
