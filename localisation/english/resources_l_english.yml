@@ -1,0 +1,9 @@
+﻿l_english:
+ gas: "gas"
+ gas_desc: "Gas is used for heating in winter, but is rarely used for military purposes"
+ PRODUCTION_MATERIALS_GAS: "Gas"
+ state_resource_gas: "gas"
+ temporary_state_resource_gas: "gas"
+ country_resource_gas: "Gas"
+ state_resource_cost_gas: "Gas Consumption"
+ country_resource_cost_gas: "Gas Consumption"

@@ -1,0 +1,240 @@
+﻿l_english:
+ #Russia
+ 
+ #Politicians
+ #Authoritarianism
+
+ #Yedinaya Rossiya
+ vladimir_putin: "Vladimir Putin"
+ mikhail_mishustin: "Mikhail Mishustin"
+ dmitry_medvedev: "Dmitry Medvedev"
+ dmitry_peskov: "Dmitry Peskov"
+ andrey_belousov: "Andrey Belousov"
+ sergei_lavrov: "Sergei Lavrov"
+ viacheslav_volodin: "Viacheslav Volodin"
+ alexey_overchuk: "Alexey Overchuk"
+ anton_siluanov: "Anton Siluanov"
+ maxim_reshetnikov: "Maxim Reshetnikov"
+ tatyana_golikova: "Tatyana Golikova"
+ marat_khusnullin: "Marat Khusnullin"
+ dmitry_rogozin: "Dmitry Rogozin"
+ yuri_borisov: "Yuri Borisov"
+ konstantin_chuichenko: "Konstantin Chuichenko"
+ denis_manturov: "Denis Manturov"
+ sergey_kravtsov: "Sergey Kravtsov"
+ vladimir_solovyov: "Vladimir Solovyov"
+ dmitry_kiselyov: "Dmitry Kiselyov"
+ igor_konashenkov: "Igor Konashenkov"
+
+ #Rodina
+ alexey_zhuravlev: "Alexey Zhuravlev"
+
+ #Novyye lyudi
+
+ alexey_nechaev: "Alexey Nechaev"
+
+ #Democracy
+ alexey_navalny: "Alexey Navalny"
+ leonid_volkov: "Leonid Volkov"
+ grigory_yavlinsky: "Grigory Yavlinsky"
+ nikolai_rybakov: "Nikolai Rybakov"
+ mikhail_kasyanov: "Mikhail Kasyanov"
+ ksenia_sobchak: "Ksenia Sobchak"
+ anatoly_chubais: "Anatoly Chubais"
+
+ #Spravedlivaya Rossiya — Patrioty — Za pravdu
+ sergey_mironov: "Sergey Mironov"
+
+ #Communism
+ gennady_zyuganov: "Gennady Zyuganov"
+ pavel_grudinin: "Pavel Grudinin"
+ zakhar_prilepin: "Zakhar Prilepin"
+ nikolai_platoshkin: "Nikolai Platoshkin"
+
+ #Nationalism
+ vladimir_zhirinovsky: "Vladimir Zhirinovsky"
+ leonid_slutsky: "Leonid Slutsky"
+ alexander_dugin: "Alexander Dugin"
+ igor_girkin: "Igor Girkin"
+ andrei_saveliev: "Andrei Saveliev"
+ alexander_barkashov: "Alexander Barkashov"
+
+ #Military
+ viktor_samsonov: "Viktor Samsonov"
+ aleksandr_dvornikov: "Alexander Dvornikov"
+ mihail_zucko: "Mikhail Zusko"
+ mihail_ugalev: "Mikhail Ugolev"
+ anatoly_kvashnin: "Anatoly Kvashnin"
+ yuri_baluyevsky: "Yuri Baluyevsky"
+ nikolai_makarov: "Nikolai Makarov"
+ valery_gerasimov: "Valery Gerasimov"
+ sergey_shoygu: "Sergey Shoygu"
+ vladimir_semyonov: "Vladimir Semyonov"
+ nikolai_kormiltsev: "Nikolai Kormiltsev"
+ alexey_maslov: "Alexey Maslov"
+ vladimir_boldyrev: "Vladimir Boldyrev"
+ anatoly_kornukov: "Anatoly Kornukov"
+ vladimir_mikhaylov: "Vladimir Mikhaylov"
+ alexander_zelin: "Alexander Zelin"
+ vladimir_kuroyedov: "Vladimir Kuroyedov"
+ vladimir_masorin: "Vladimir Masorin"
+ vladimir_vysotsky: "Vladimir Vysotsky"
+ pavel_popov: "Pavel Popov"
+ igor_sergeyev: "Igor Sergeyev"
+ yuriy_sadovenko: "Yuriy Sadovenko"
+ igor_borisovich_tymofeyev: "Igor Borisovich Tymofeyev"
+ vadym_ivanovych_pankov: "Vadym Ivanovych Pankov"
+ vladimir_anatolievich_kochetkov: "Vladimir Anatolievich Kochetkov"
+ aleksandr_ivanovich_lentsov: "Aleksandr Ivanovich Lentsov"
+ aleksej_vladimirovich_zavizion: "Aleksej Vladimirovich Zavizion"
+ andrey_leonidovich_krasov: "Andrey Leonidovich Krasov"
+ gennady_anashkin: "Gennady Anashkin"
+ vladimir_korolev: "Vladimir Korolev"
+ aleksandr_viktorovich_vitko: "Aleksandr Viktorovich Vitko"
+ nikolay_yevmenov: "Nikolay Yevmenov"
+ sergei_avakyants: "Sergei Avakyants"
+ viktor_nikolayevich_mardusin: "Viktor Nikolayevich Mardusin"
+ alexander_nosatov: "Alexander Nosatov"
+ viktor_petrovich_kravchuk: "Viktor Petrovich Kravchuk"
+ 
+ #Border Zone
+ pogranichnaya_sluzhba_federalnoy_sluzhby_bezopasnosti_rossiyskoy_federatsii: "Pogranichnaya sluzhba Federal'noy sluzhby bezopasnosti Rossiyskoy Federatsii"
+ federalnaya_pogranichnaya_sluzhba_rossiyskoy_federatsii: "Federal'naya pogranichnaya sluzhba Rossiyskoy Federatsii"
+ pogranichnyye_voyska_kgb_sssr: "Pogranichnyye voyska KGB SSSR"
+ otdelnyy_korpus_pogranichnoy_strazhi: "Otdel'nyy korpus pogranichnoy strazhi"
+ 
+ #Belarus
+ BLR_lukashenko: "Alexander Lukashenko"
+ BLR_sokol: "Alexey Sokol"
+ BLR_saranchuk: "Vadim Saranchukov"
+ BLR_kostusev: "Grigory Kostusev"
+ BLR_golovchenko: "Roman Golovchenko"
+ BLR_snopkov: "Nikolay Snopkov"
+ BLR_sergeenko: "Igor Sergeenko"
+ BLR_kallaur: "Pavel Kallaur" 
+ BLR_gusakov: "Vladimir Gusakov"
+ #Беларусь Военные
+ BLR_hrenin: "Victor Khrenin"
+ BLR_alexander_volfovich: "Alexander Volfovich"
+ BLR_stanislav_zas: "Stanislav Zas"
+ BLR_gulevich: "Victor Gulevich"
+ BLR_oleg_belokonev: "Oleg Belokonev"
+ BLR_ivan_tertel: "Ivan Tertel"
+ BLR_valery_vakulchik: "Valery Vakulchik"
+ BLR_yuri_karaev: "Yuri Karaev"
+ BLR_ivan_kubrakov: "Ivan Kubrakov"
+ 
+ #Kazakhstan
+ kassym_jomart_tokayev: "Kassym-Jomart Tokayev"
+ 
+ #DPR
+ denis_pushilin: "Denis Pushilin"
+ alexander_khodakovsky: "Alexander Khodakovsky"
+ alexey_dikiy: "Alexey Dikiy"
+ konstantin_kuzmin: "Konstantin Kuzmin" 
+ vladimir_joga: "Vladimir Zhoga"
+ edward_basurin: "Eduard Bachurin"
+ artem_joga: "Artem Zhoga"
+ 
+ #LPR
+ leonid_pasechnik: "Leonid Pasechnik"
+ vladimir_polupoltinnykh: "Vladimir Polupoltinnykh"
+ nikolai_kulchanovsky: "Nikolai Kulchanovsky"
+ andrey_marochko: "Andrey Marochko"
+ esedulla_abachev: "Esedulla Abachev"
+ 
+ #Chechnya
+ ramzan_kadyrov: "Ramzan Kadyrov"
+ chychiev_myslim: "Khuchiev Magomedovich"
+ byarovich_daaev: "Khozh-Baudi Buarovich"
+ masaev_rizvan: "Masaev Magomedovich"
+ beckchan_elim: "Bekkhan Elimsoltoevich"
+ hasan_hakimov: "Khakimov Suleimanovich"
+ sultan_tagaev: "Tagaev Khumaidovich"
+ alchanov_ruslan: "Alkhanov Ruslan"
+ chamzat_kadyrov: "Khamzat Kadyrov"
+ magomed_kadyrov: "Khas-Magomed Kadyrov"
+ chergikov_idris: "Idris Cherkhigov"
+ ibragim_zakriev: "Ibragim Zakriev"
+ islam_kadyrov: "Islam Kadyrov"
+ 
+ #Abkhazia
+ aslan_bzhaniya: "Aslan Bzhaniya"
+ 
+ #Ukraine
+ volodymir_zelenskyy: "Volodymyr Zelenskyy"
+ UKR_Boiko_Yurii: "Yuriy Boyko"
+ UKR_genshtab_VSY: "General Staff of the VSU"
+ UKR_pravy_sektor: "«Right sector»"
+ UKR_Peter_Nikolaevich: "Peter Simonenko"
+ UKR_Oleg_Tyagnibok: "Oleg Tyagnibok"
+
+ #Transistria
+ Vadim: "Vadim Krasnoselskiy"
+ #SLO
+ Chaputova: "Zuzana Chaputova"
+ #SER
+ Vuchich: "Aleksandar Vucic"
+ #CRO
+ Milanovich: "Zoran Milanovic"
+ #CZE
+ Zman: "Milos Zeman"
+ #BOS
+ Zeljko_Komsic: "Željko Komsic"
+ #BUL
+ Radev: "Rumen Radev"
+ #HUN
+ Katalin: "Katalin Novak"
+ Ader: "Janos Ader"
+ #POL
+ Andj: "Andrzej Duda"
+ #LIT
+ Gitan: "Gitanas Nauseda"
+ #ROM
+ Claus: "Klaus Johannis"
+ #MOL
+ Maya: "Maya Sandu"
+ #Military
+ balan_mikola: "Balan Mikola"
+ valeriy_zaluzhnyy: "Valeriy Zaluzhnyy"
+ evghenyy_moiysyk: "Evghenyy Moiysyk"
+ viktor_bokyi: "Viktor Bokyi"
+ volodymir_karpenko: "Volodymir Karpenko"
+ oleksandrovich_kyrylenko: "Oleksandrovich Kyrylenko"
+ volodymir_koval: "Volodymir Koval"
+ oleksandr_kosynskyy: "Oleksandr Kosynskyy"
+ sergey_naev: "Sergey Naev"
+ oleksandr_nesterenko: "Oleksandr Nesterenko"
+ oleksandr_pavlyuk: "Oleksandr Pavlyuk"
+ ihor_palahnyuk: "Ihor Palahnyuk"
+ oleksandr_sirskyy: "Oleksandr Sirskyy"
+ serhiy_stanislavovych: "Serhiy Stanislavovych"
+ ihor_tantsyura: "Ihor Tantsyura"
+ serhiy_shaptala: "Serhiy Shaptala"
+ volodymyr_shvedyuk: "Volodymyr Shvedyuk"
+ dmytro_shumskyy: "Dmytro Shumskyy"
+ 
+  
+ #NATO
+ jens_stoltenberg: "Jens Stoltenberg"
+  
+ #Latvia
+ egils_levits: "Egils Levits"
+
+ #Bakhmut
+ reva: "Oleksiy Reva"
+ slesarev: "Valeriy Slesarev"
+ sechkin: "Genadiy Sechkin"
+
+ #Wagner
+ evgeniy_prigozhin: "Evgeniy Prigozhin"
+dmitry_utkin: "Dmitry Utkin"
+mikhail_mizintsev: "Mikhail Mizintsev"
+alexander_kuznetsov: "Alexander Kuznetsov"
+anton_elizarov: "Anton Elizarov"
+
+hodak: "Alexander Khodakovskiy"
+hodak_desc: "Alexander Khodakovskiy"
+
+ #Void
+ BOR_void: "Void"
